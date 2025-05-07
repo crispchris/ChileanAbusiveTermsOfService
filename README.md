@@ -1,4 +1,4 @@
-# Chilean Abusive Terms-of-Service (ToS)
+# Chilean Abusive Terms of Service (ToS)
 The Chilean Abusive Terms of Service dataset and code will be released here shortly.
 
 ## Citation
